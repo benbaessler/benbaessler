@@ -2,7 +2,7 @@
 
 # Hi, I'm Ben! :wave:
 
-A London-based software engineer working with Web3 and AI.
+A software engineer based in London working with Web3, Ethereum and AI.
 
 <p>
   <a href="https://twitter.com/mrbaessler"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
